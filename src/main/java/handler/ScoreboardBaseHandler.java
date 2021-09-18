@@ -14,4 +14,5 @@ public class ScoreboardBaseHandler {
     public static ScoreboardBase getBase() {
         return base;
     }
+
 }
