@@ -1,9 +1,7 @@
-ScoreboardAPI
-Simply create scoreboards.
+ScoreboardAPI - Simply create a scoreboard, a sidebar and register teams.
 
-Create a new ScoreboardBase & sidebra
-ScoreboardBase base = new ScoreboardBase();
-Sidebar bar = new Sidebar();
+Create a new ScoreboardBase & sidebar.
+ScoreboardBaseHandler.createaNewBase();
 
 Get the base using the ScoreboardBaseHandler
   - ScoreboardBase base = ScoreboardBaseHandler.getBase(); 
