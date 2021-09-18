@@ -37,7 +37,7 @@ Placeholders:
 
 
 Your base and sidebar may look like the following:
-  - base.addNewTeam("default", "§a§lDEFAULT §f", "", "§a", "§aSpieler", "0002", "default");
+  - base.addNewTeam("default", "§a§lPLAYER §f", "", "§a", "§aPlayer", "0009", "default");
   - bar.addScore("§7§m----------");
   - bar.addScore("§fRank");
   - bar.addScore("%rank%");
