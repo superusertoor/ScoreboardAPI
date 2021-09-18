@@ -35,11 +35,11 @@ ScoreboardBase
 Placeholders:
 %rank% - scoreboard
 
-base.addNewTeam("default", "§a§lDEFAULT §f", "", "§a", "§aSpieler", "0002", "default");
-bar.addScore("§7§m----------");
-bar.addScore("§fRank");
-bar.addScore("%rank%");
-bar.addScore(" ");
-bar.addScore("§8§7§m----------");
-bar.addScore("§d§oyour.domain");
-bar.reverse();
+  - base.addNewTeam("default", "§a§lDEFAULT §f", "", "§a", "§aSpieler", "0002", "default");
+  - bar.addScore("§7§m----------");
+  - bar.addScore("§fRank");
+  - bar.addScore("%rank%");
+  - bar.addScore(" ");
+  - bar.addScore("§8§7§m----------");
+  - bar.addScore("§d§oyour.domain");
+  - bar.reverse();
