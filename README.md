@@ -35,6 +35,7 @@ ScoreboardBase
 Placeholders:
 %rank% - scoreboard
 
+Your base and sidebar may look like the following:
   - base.addNewTeam("default", "§a§lDEFAULT §f", "", "§a", "§aSpieler", "0002", "default");
   - bar.addScore("§7§m----------");
   - bar.addScore("§fRank");
