@@ -1,3 +1,5 @@
+EXPERIMENTAL
+
 ScoreboardAPI - Simply create a scoreboard, a sidebar and register teams.
 
 Create a new ScoreboardBase & sidebar.
